@@ -12,8 +12,7 @@
 ---
 
 ### 👨‍💻 Hakkımda
-
-Ben bir Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye, problem çözmeye ve yenilikçi çözümler üretmeye büyük bir tutku duyuyorum. IEEE öğrenci topluluğunda **Sponsorluk Sorumlusu** ve Badi etkinlik şirketinde **Kampüs Lideri** olarak görev alarak hem teknik hem de sosyal becerilerimi geliştirme fırsatı buldum.
+ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye, problem çözmeye ve yenilikçi çözümler üretmeye büyük bir tutku duyuyorum. IEEE öğrenci topluluğunda **Sponsorluk Sorumlusu** ve Badi etkinlik şirketinde **Kampüs Lideri** olarak görev alarak hem teknik hem de sosyal becerilerimi geliştirme fırsatı buldum.
 
 - 🔭 Şu anda **React** ve **Python** üzerine yoğunlaşarak kendimi geliştiriyorum.
 - 🌱 Web siteleri ve temel mobil uygulamalar geliştirerek öğrendiklerimi pratiğe döküyorum.

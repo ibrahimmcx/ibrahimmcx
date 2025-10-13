@@ -67,8 +67,8 @@ Aşağıda aktif olarak kullandığım, öğrendiğim ve ilgi duyduğum dil ve t
 Benimle bağlantı kurmaktan çekinmeyin!
 
 <p align="left">
-  <a href="www.linkedin.com/in/ibrahimculfa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-kullanici-adin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ibrahim-culfa-3901452a2/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim culfa" height="30" width="40" />
   </a>
   <a href="mailto:ibrahimculfa57@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />

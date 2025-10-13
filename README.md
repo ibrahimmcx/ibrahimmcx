@@ -79,11 +79,11 @@ Benimle bağlantı kurmaktan çekinmeyin!
 
 ### 📊 GitHub İstatistiklerim
 
-Bu bölüm, GitHub'daki aktiviteni dinamik olarak gösterir. **`senin-kullanici-adin`** yazan yeri kendi GitHub kullanıcı adınla değiştirmeyi unutma!
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcxn&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p align="center"> 

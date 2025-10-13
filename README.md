@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimmcx
 - I'm studying information systems engineering
-- I am learning java language
+- I am learning java\c#\pyhton language
 - I am open to new projects
 
 <!---

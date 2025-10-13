@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px">
 </p>
 
-<h1 align="center">Merhaba, ben [ibrahim Culfa] 👋</h1>
+<h1 align="center">Merhaba, ben ibrahim Culfa 👋</h1>
 <h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi & Yazılım Geliştirici</h3>
 
 <p align="center">

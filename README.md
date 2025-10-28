@@ -58,6 +58,7 @@ Aşağıda aktif olarak kullandığım, öğrendiğim ve ilgi duyduğum dil ve t
 
 -   **Sponsorluk Sorumlusu** | IEEE Öğrenci Topluluğu
 -   **Kampüs Lideri** | Badi Etkinlik Şirketi
+-   **Kampüs Temsilcisi** | Etkin Kampüs
 
 ---
 

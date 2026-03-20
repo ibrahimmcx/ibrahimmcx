@@ -5,9 +5,7 @@
 <h1 align="center">Merhaba, ben ibrahim Culfa 👋</h1>
 <h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi & Yazılım Geliştirici</h3>
 
-<p align="center">
-  <img src="https://github.com/REANMACHINE/REANMACHINE/blob/main/developer.gif" width="300" />
-</p>
+
 
 ---
 

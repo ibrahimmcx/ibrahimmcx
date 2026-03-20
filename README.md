@@ -2,74 +2,134 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px">
 </p>
 
-<h1 align="center">Merhaba, ben ibrahim Culfa 👋</h1>
-<h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi & Yazılım Geliştirici</h3>
-
-
+<h1 align="center">Merhaba, ben İbrahim Culfa 👋</h1>
+<h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi | Full Stack Developer | Mobile App Developer</h3>
 
 ---
 
 ### 👨‍💻 Hakkımda
- Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye, problem çözmeye ve yenilikçi çözümler üretmeye büyük bir tutku duyuyorum. IEEE öğrenci topluluğunda **Sponsorluk Sorumlusu** ve Badi etkinlik şirketinde **Kampüs Lideri** olarak görev alarak hem teknik hem de sosyal becerilerimi geliştirme fırsatı buldum.
+Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Full stack web geliştirme, mobil uygulama geliştirme ve yapay zeka tabanlı projeler üzerine yoğunlaşıyorum. Gerçek projeler geliştirerek kendimi sürekli geliştirmeyi ve öğrendiklerimi üretime dönüştürmeyi hedefliyorum.
 
-- 🔭 Şu anda **React** ve **Python** üzerine yoğunlaşarak kendimi geliştiriyorum.
-- 🌱 Web siteleri ve temel mobil uygulamalar geliştirerek öğrendiklerimi pratiğe döküyorum.
-- 💡 Yeni teknolojileri öğrenmekten ve projeler geliştirmekten keyif alıyorum.
-- 💬 Yazılım, teknoloji ve kariyer fırsatları hakkında sohbet etmeye her zaman açığım!
+- 🔭 Şu anda **React Native ve Python (AI/ML)** üzerine yoğunlaşıyorum
+- 🌱 ASP.NET, MSSQL ve modern web teknolojileri ile büyük ölçekli projeler geliştiriyorum
+- 💡 Gerçek hayatta kullanılabilecek yazılım projeleri üretmeye odaklanıyorum
+- 🚀 Mobil uygulama, web sitesi ve yapay zeka projeleri geliştiriyorum
+- 💬 Yazılım, girişimcilik ve teknoloji hakkında konuşmayı seviyorum
 
 ---
 
-### 🚀 Kullandığım ve Öğrendiğim Teknolojiler
+### 🧠 Uzmanlık Alanlarım
 
-Aşağıda aktif olarak kullandığım, öğrendiğim ve ilgi duyduğum dil ve teknolojileri bulabilirsiniz.
+- Full Stack Web Development
+- ASP.NET Web Forms & C#
+- MSSQL & Entity Framework
+- React & JavaScript
+- React Native Mobile App Development
+- Python & Machine Learning Projeleri
+- UI / UX Tasarım
+- E-Ticaret Sistemleri
+- Admin Panel Geliştirme
+- API Geliştirme
+- Veritabanı Tasarımı
+
+---
+
+### 🚀 Geliştirdiğim Projeler
+
+#### 📌 E-Ticaret Web Sitesi (ASP.NET + MSSQL)
+- Kullanıcı girişi ve kayıt sistemi
+- Admin paneli (ürün ekleme, silme, güncelleme)
+- Çoklu resim yükleme sistemi
+- Kategori ve alt kategori yapısı (ParentID sistemi)
+- Sepet sistemi ve ürün detay sayfası
+- Kampanya ve indirim sistemi
+
+---
+
+#### 📌 OBS (Öğrenci Bilgi Sistemi) Web Sitesi
+- Öğrenci / Akademisyen / Admin rol sistemi
+- Ders seçme ve not görüntüleme
+- Devamsızlık sistemi
+- Belge talep sistemi
+- Modern sol menülü yönetim paneli
+- MSSQL veritabanı yapısı ile tam entegre sistem
+
+---
+
+#### 📌 React Native Mobil Uygulama Projesi
+- Modern UI tasarımı
+- API ile veri çekme sistemi
+- Kullanıcı giriş sistemi
+- Gerçek cihazlarda çalışan mobil uygulama
+- Android APK ve iOS test sürümü oluşturma
+
+---
+
+#### 📌 Yapay Zeka Tabanlı Emlak Uygulaması
+- Fiyat tahmin sistemi
+- ROI analizi
+- Risk skoru hesaplama
+- Harita tabanlı arama sistemi
+- Kullanıcıya al / sat / beklet önerisi sunan AI sistem
+
+---
+
+#### 📌 Web Ajansı Projesi
+- Gerçek müşteri projeleri için web sitesi geliştirme
+- SEO uyumlu web siteleri
+- Modern UI / UX tasarım
+- Kurumsal web sitesi çözümleri
+
+---
+
+### 💻 Kullandığım Teknolojiler
 
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactnative" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,python,mysql,mssql,bootstrap,git,github,vscode" />
 </p>
+
+---
+
+### 📊 Teknik Yetkinliklerim
+
+- OOP (Object Oriented Programming)
+- Veritabanı Tasarımı
+- Frontend + Backend geliştirme
+- Responsive Web Design
+- REST API Kullanımı
+- Proje mimarisi oluşturma
+- Admin panel geliştirme
+- Kullanıcı yetkilendirme sistemi
+- Modern web tasarımı
 
 ---
 
 ### 💼 Deneyimlerim
 
--   **Sponsorluk Sorumlusu** | IEEE Öğrenci Topluluğu
--   **Kampüs Lideri** | Badi Etkinlik Şirketi
--   **Kampüs Temsilcisi** | Etkin Kampüs
+- **Sponsorluk Sorumlusu** | IEEE Öğrenci Topluluğu
+- **Kampüs Lideri** | Badi Etkinlik Şirketi
+- **Kampüs Temsilcisi** | Etkin Kampüs
+- Freelance Web Developer
+
+---
+
+### 🎯 Hedeflerim
+
+- Büyük ölçekli web projeleri geliştirmek
+- Yapay zeka destekli uygulamalar geliştirmek
+- Mobil uygulama alanında uzmanlaşmak
+- Yazılım alanında güçlü bir kariyer oluşturmak
 
 ---
 
 ### 📫 Bana Ulaşın
 
-Benimle bağlantı kurmaktan çekinmeyin!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ibrahim-culfa-3901452a2/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim culfa" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:ibrahimculfa57@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30" />
   </a>
 </p>
 
@@ -77,13 +137,11 @@ Benimle bağlantı kurmaktan çekinmeyin!
 
 ### 📊 GitHub İstatistiklerim
 
-
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/ibrahimmcx/count.svg" alt="Profil Ziyaretçi Sayacı" /> 
+  <img src="https://profile-counter.glitch.me/ibrahimmcx/count.svg" /> 
 </p>

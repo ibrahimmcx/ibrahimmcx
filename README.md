@@ -65,12 +65,7 @@ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Full stack web gel
 
 ---
 
-#### 📌 Yapay Zeka Tabanlı Emlak Uygulaması
-- Fiyat tahmin sistemi
-- ROI analizi
-- Risk skoru hesaplama
-- Harita tabanlı arama sistemi
-- Kullanıcıya al / sat / beklet önerisi sunan AI sistem
+
 
 ---
 

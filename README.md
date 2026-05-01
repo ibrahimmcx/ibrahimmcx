@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Hareketli Yazılımcı Bannerı -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=İbrahim%20Culfa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=60" width="100%"/>
+  <!-- Dinamik Karşılama Bannerı -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=İbrahim%20Culfa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=60" width="100%"/>
 </p>
 
 <p align="center">
@@ -26,12 +26,11 @@ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native
 - 📱 **Mobil:** Expo & React Native ile performanslı uygulamalar.
 - 🤖 **Yapay Zeka:** Makine öğrenmesi ve veri analizi çözümleri.
 - 🌐 **Web:** ASP.NET Core & Modern JS kütüphaneleri.
-- ⚡ **Hedef:** Global SaaS projelerinde aktif rol almak.
 
 ---
 
 ### 🛠️ Teknolojik Yığınım (Tech Stack)
-
+<!-- Tüm ikonlar yan yana ve derli toplu -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,python,dotnet,cs,mysql,mssql,supabase,html,css,bootstrap,git,github,vscode,docker&perline=15" />
 </p>
@@ -65,27 +64,19 @@ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 İstatistikler & Hareketli Veriler
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
----
-
-### ⚡ Aktif Olduğum Alanlar
-
-- **IEEE** Sponsorluk Sorumlusu 🤝
-- **Badi & Etkin Kampüs** Liderliği 🎓
-- **Freelance** Yazılım Geliştirme 💻
-
----
-
+<!-- Çalışan ve hareketli alt bar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibrahimmcx/ibrahimmcx/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=30&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ibrahimmcx/count.svg" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/followers/ibrahimmcx?label=Takipçi&style=social" />
 </p>

@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px">
+  <!-- Hareketli Yazılımcı Bannerı -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=İbrahim%20Culfa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=60" width="100%"/>
 </p>
 
-<h1 align="center">Merhaba, ben İbrahim Culfa 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  <b>Bilişim Sistemleri Mühendisliği Öğrencisi</b>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-culfa-3901452a2/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,70 +17,75 @@
   </a>
 </p>
 
-<h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi | Full Stack Developer | Mobile Developer</h3>
+---
+
+### 🚀 Hakkımda & Odak Noktalarım
+
+Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native (JS)** ve **Python** tabanlı yapay zeka projelerine yoğunlaşıyorum. Ölçeklenebilir sistemler ve modern kullanıcı deneyimleri inşa etmek temel motivasyonum.
+
+- 📱 **Mobil:** Expo & React Native ile performanslı uygulamalar.
+- 🤖 **Yapay Zeka:** Makine öğrenmesi ve veri analizi çözümleri.
+- 🌐 **Web:** ASP.NET Core & Modern JS kütüphaneleri.
+- ⚡ **Hedef:** Global SaaS projelerinde aktif rol almak.
+
+---
+
+### 🛠️ Teknolojik Yığınım (Tech Stack)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimmcx&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="ibrahimmcx" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,dotnet,cs,mysql,mssql,supabase,html,css,bootstrap,git,github,vscode,docker&perline=15" />
 </p>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 📂 Öne Çıkan Projeler
 
-Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Modern yazılım ekosistemlerinde ölçeklenebilir çözümler üretmeye odaklanıyorum. 
-
-- 🔭 **Şu an odaklandığım:** React Native (JS) & Python (AI/ML)
-- 🌱 **Öğrenim sürecim:** ASP.NET Core Microservices & Cloud sistemler
-- 💡 **Vizyonum:** Gerçek dünya problemlerini yapay zeka ve mobil teknolojilerle çözmek
-- 🚀 **Topluluk:** IEEE bünyesinde aktif rol alıyor ve girişimcilik ekosistemini takip ediyorum
-
----
-
-### 🛠️ Teknolojik Yetkinlikler
-
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Backend** | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1B1F23?style=flat&logo=expo&logoColor=white) |
-| **Database** | ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-
----
-
-### 🚀 Öne Çıkan Projeler
-
-#### 💬 Real-Time Chat System
-> Socket.io ve React Native kullanılarak geliştirilmiş, anlık durum takibi yapabilen modern mesajlaşma platformu.
-
-#### 🏠 Emlak AI (PropTech)
-> Tahminleme algoritmaları ve FastAPI backend mimarisi ile entegre edilmiş, gayrimenkul analiz mobil uygulaması.
-
-#### 🛒 StreamMarket
-> Canlı yayın üzerinden satış imkanı sunan, kullanıcı deneyimi odaklı hibrit pazaryeri prototipi.
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h4>💬 Real-Time Chat</h4>
+      <p>Socket tabanlı, anlık mesajlaşma ve online durum takibi içeren mobil uygulama.</p>
+    </td>
+    <td width="50%">
+      <h4>🏠 Emlak AI</h4>
+      <p>Yapay zeka destekli gayrimenkul analiz ve tahminleme platformu.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🛒 StreamMarket</h4>
+      <p>Canlı yayın entegrasyonlu modern pazaryeri prototipi.</p>
+    </td>
+    <td width="50%">
+      <h4>⚙️ AI Quality Control</h4>
+      <p>Üretim hatlarında görüntü işleme ile hata tespit sistemi.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 İstatistikler
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=6&theme=nord" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
 
-### 💼 Deneyim & Gönüllülük
-*   **IEEE Öğrenci Topluluğu** | Sponsorluk Sorumlusu
-*   **Badi Etkinlik** | Kampüs Lideri
-*   **Freelance** | Full Stack Web Developer
+### ⚡ Aktif Olduğum Alanlar
+
+- **IEEE** Sponsorluk Sorumlusu 🤝
+- **Badi & Etkin Kampüs** Liderliği 🎓
+- **Freelance** Yazılım Geliştirme 💻
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+  <img src="https://raw.githubusercontent.com/ibrahimmcx/ibrahimmcx/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <i>"Kod yazmak bir sanattır, mimari ise onun ruhudur."</i>
+  <img src="https://profile-counter.glitch.me/ibrahimmcx/count.svg" />
 </p>

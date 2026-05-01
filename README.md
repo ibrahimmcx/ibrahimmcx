@@ -3,137 +3,79 @@
 </p>
 
 <h1 align="center">Merhaba, ben İbrahim Culfa 👋</h1>
-<h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi | Full Stack Developer | Mobile Developer</h3>
-
----
-
-## 👨‍💻 Hakkımda
-
-Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim.  
-Full stack web geliştirme, mobil uygulama geliştirme ve yapay zeka tabanlı projeler üzerine yoğunlaşıyorum.  
-
-Gerçek dünya problemlerine çözüm üreten, ölçeklenebilir ve modern yazılım sistemleri geliştirmeyi hedefliyorum.
-
-- 🔭 React Native ve Python (AI/ML) üzerine çalışıyorum  
-- 🌱 ASP.NET Core, MSSQL ve modern web teknolojileri geliştiriyorum  
-- 💡 Gerçek hayatta kullanılan projeler üretmeye odaklanıyorum  
-- 🚀 Web, mobil ve yapay zeka alanlarında projeler geliştiriyorum  
-- 💬 Yazılım ve girişimcilik konularını konuşmayı seviyorum  
-
----
-
-## 🧠 Uzmanlık Alanlarım
-
-- Full Stack Web Development  
-- ASP.NET Core & C#  
-- MSSQL & Entity Framework  
-- React & JavaScript  
-- React Native Mobile Development  
-- Python & Machine Learning  
-- API Development (RESTful Services)  
-- UI / UX Design  
-- Admin Panel Systems  
-- Real-time Chat Applications  
-- Database Architecture  
-
----
-
-## 🚀 Projelerim
-
-### 💬 Real-Time Chat Uygulaması
-- Gerçek zamanlı mesajlaşma sistemi  
-- Kullanıcı giriş & kayıt sistemi  
-- Online / offline durum takibi  
-- Socket tabanlı iletişim yapısı  
-- Modern ve responsive UI tasarımı  
-- Grup ve birebir sohbet yapısı  
-
----
-
-### 📱 React Native Mobil Uygulama
-- Modern mobil arayüz tasarımı  
-- API entegrasyonu ile veri yönetimi  
-- Kullanıcı kimlik doğrulama sistemi  
-- Android & iOS uyumlu yapı  
-- Performans odaklı mobil mimari  
-
----
-
-### 🤖 Yapay Zeka & Python Projeleri
-- Makine öğrenmesi modelleri  
-- Veri analizi ve tahmin sistemleri  
-- Model optimizasyon çalışmaları  
-- Gerçek veri setleri ile uygulamalar  
-
----
-
-### 🌐 Web Ajansı Projeleri
-- Kurumsal web sitesi geliştirme  
-- SEO uyumlu modern tasarımlar  
-- UI/UX odaklı frontend geliştirme  
-- Müşteri projelerine özel çözümler  
-
----
-
-## 💻 Kullandığım Teknolojiler
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,python,mysql,mssql,bootstrap,git,github,vscode" />
-</p>
-
----
-
-## 📊 Teknik Yetkinliklerim
-
-- OOP (Nesne Yönelimli Programlama)  
-- Veritabanı Tasarımı & Optimizasyonu  
-- Frontend & Backend Mimari  
-- REST API Geliştirme  
-- Responsive UI Design  
-- Gerçek zamanlı sistemler (Chat, Socket)  
-- Proje mimarisi oluşturma  
-- Authentication & Authorization sistemleri  
-
----
-
-## 💼 Deneyimlerim
-
-- Sponsorluk Sorumlusu | IEEE Öğrenci Topluluğu  
-- Kampüs Lideri | Badi Etkinlik Şirketi  
-- Kampüs Temsilcisi | Etkin Kampüs  
-- Freelance Web Developer  
-
----
-
-## 🎯 Hedeflerim
-
-- Büyük ölçekli SaaS projeleri geliştirmek  
-- Yapay zeka destekli sistemler üretmek  
-- Mobil uygulama alanında uzmanlaşmak  
-- Global yazılım projelerinde yer almak  
-
----
-
-## 📫 Bana Ulaşın
-
-<p align="left">
   <a href="https://www.linkedin.com/in/ibrahim-culfa-3901452a2/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ibrahimculfa57@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<h3 align="center">Bilişim Sistemleri Mühendisliği Öğrencisi | Full Stack Developer | Mobile Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimmcx&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="ibrahimmcx" />
 </p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+### 👨‍💻 Hakkımda
+
+Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Modern yazılım ekosistemlerinde ölçeklenebilir çözümler üretmeye odaklanıyorum. 
+
+- 🔭 **Şu an odaklandığım:** React Native (JS) & Python (AI/ML)
+- 🌱 **Öğrenim sürecim:** ASP.NET Core Microservices & Cloud sistemler
+- 💡 **Vizyonum:** Gerçek dünya problemlerini yapay zeka ve mobil teknolojilerle çözmek
+- 🚀 **Topluluk:** IEEE bünyesinde aktif rol alıyor ve girişimcilik ekosistemini takip ediyorum
+
+---
+
+### 🛠️ Teknolojik Yetkinlikler
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1B1F23?style=flat&logo=expo&logoColor=white) |
+| **Database** | ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+---
+
+### 🚀 Öne Çıkan Projeler
+
+#### 💬 Real-Time Chat System
+> Socket.io ve React Native kullanılarak geliştirilmiş, anlık durum takibi yapabilen modern mesajlaşma platformu.
+
+#### 🏠 Emlak AI (PropTech)
+> Tahminleme algoritmaları ve FastAPI backend mimarisi ile entegre edilmiş, gayrimenkul analiz mobil uygulaması.
+
+#### 🛒 StreamMarket
+> Canlı yayın üzerinden satış imkanı sunan, kullanıcı deneyimi odaklı hibrit pazaryeri prototipi.
+
+---
+
+### 📊 İstatistikler
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=6&theme=nord" />
 </p>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ibrahimmcx/count.svg" /> 
+---
+
+### 💼 Deneyim & Gönüllülük
+*   **IEEE Öğrenci Topluluğu** | Sponsorluk Sorumlusu
+*   **Badi Etkinlik** | Kampüs Lideri
+*   **Freelance** | Full Stack Web Developer
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+</p>
+
+<p align="center">
+  <i>"Kod yazmak bir sanattır, mimari ise onun ruhudur."</i>
 </p>

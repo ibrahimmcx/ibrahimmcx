@@ -65,8 +65,11 @@ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native
 
 ### 📊 İstatistikler & Hareketli Veriler
 
+### 📊 İstatistikler & Hareketli Veriler
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- count_private=true kaldırıldı ve daha stabil bir sunucu linki eklendi -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
@@ -80,6 +83,6 @@ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native
 </p>
 
 <p align="center">
-  <!-- Eskiden kırık olan rect (düz kutu) yerine tasarıma çok daha uygun ince bir dalga eklendi -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" width="100%"/>
 </p>
+

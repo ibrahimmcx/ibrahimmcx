@@ -65,12 +65,12 @@ Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native
 
 ### 📊 İstatistikler & Hareketli Veriler
 
-### 📊 İstatistikler & Hareketli Veriler
-
 <p align="center">
-  <!-- count_private=true kaldırıldı ve daha stabil bir sunucu linki eklendi -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimmcx&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmcx&layout=compact&langs_count=8&theme=dracula"/>
+  <!-- Profil Özet Kartı (Alternatif Servis) -->
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimmcx&theme=dracula" />
+  
+  <!-- Github Streak (Seri) Kartı (Alternatif Servis) -->
+  <img height="165em" src="https://streak-stats.demolab.com/?user=ibrahimmcx&theme=dracula" />
 </p>
 
 <br>

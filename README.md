@@ -1,19 +1,22 @@
 <p align="center">
   <!-- Dinamik Karşılama Bannerı -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=İbrahim%20Culfa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:38bdf8&height=210&section=header&text=%C4%B0brahim%20Culfa&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20AI%20%26%20Computer%20Vision%20Developer&descSize=18&descAlignY=62" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-  <b>Bilişim Sistemleri Mühendisliği Öğrencisi</b>
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" alt="Hi">
+  <b>Bilişim Sistemleri Mühendisliği 4. Sınıf Öğrencisi • Yapay Zekâ & Ölçeklenebilir Ürün Geliştiricisi</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-culfa-3901452a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ibrahimculfa57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ibrahimmcx" target="_blank">
+    <img src="https://img.shields.io/github/followers/ibrahimmcx?label=Takip%20Et&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -21,68 +24,79 @@
 
 ### 🚀 Hakkımda & Odak Noktalarım
 
-Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisi olarak, **React Native (JS)** ve **Python** tabanlı yapay zeka projelerine yoğunlaşıyorum. Ölçeklenebilir sistemler ve modern kullanıcı deneyimleri inşa etmek temel motivasyonum.
+Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisi olarak; **Full-Stack Web**, **React Native (Mobil)** ve **Python / Yapay Zekâ** kesişiminde uçtan uca çalışan, ölçeklenebilir SaaS ürünleri ve otonom sistemler geliştiriyorum.
 
-- 📱 **Mobil:** Expo & React Native ile performanslı uygulamalar.
-- 🤖 **Yapay Zeka:** Makine öğrenmesi ve veri analizi çözümleri.
-- 🌐 **Web:** ASP.NET Core & Modern JS kütüphaneleri.
+- 🤖 **Yapay Zekâ & Bilgisayarlı Görü:** Çok modlu LLM ajanları (Gemini / OpenAI), MediaPipe, OpenCV, çoklu-ajan simülasyonları ve dijital ikiz sistemleri.
+- 🌐 **Full-Stack Web:** React, TypeScript, Node.js, Express, Prisma, Tailwind CSS & ASP.NET Core ile modern mimariler.
+- 📱 **Mobil Uygulama:** React Native & Expo ile yüksek performanslı çapraz platform deneyimler.
+- ☁️ **Bulut & DevOps:** Docker, Nginx, Vercel Edge, AWS Lightsail ve Supabase ile canlı dağıtım.
 
 ---
 
 ### 🛠️ Teknolojik Yığınım (Tech Stack)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,dotnet,cs,mysql,mssql,supabase,html,css,bootstrap,git,github,vscode,docker&perline=15" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,python,dotnet,cs,tailwind,prisma,supabase,mysql,postgres,docker,nginx,vercel,aws,git,github,vscode&perline=10" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 📂 Öne Çıkan Projeler
 
-<table border="0">
+<table>
   <tr>
-    <td width="50%">
-      <h4>💬 Real-Time Chat</h4>
-      <p>Socket tabanlı, anlık mesajlaşma ve online durum takibi içeren mobil uygulama.</p>
+    <td width="50%" valign="top">
+      <h4>✨ <a href="https://github.com/ibrahimmcx/mockpstudio">LOOMI.AI — Autonomous POD & E-Commerce OS</a></h4>
+      <p>
+        Etsy & Printify satıcıları için uçtan uca otonom yapay zekâ platformu. <b>MediaPipe & IDM-VTON</b> gerçek zamanlı sanal deneme kabini, <b>rembg</b> dekupe, <b>60 FPS FFmpeg</b> video üretimi, <b>500+ ajanlı tüketici simülasyonu</b> ve canlı kur destekli <b>OpenXML Excel</b> finans motoru içerir.
+      </p>
+      <p>
+        <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Python</code> <code>Gemini AI</code> <code>Docker</code>
+      </p>
     </td>
-    <td width="50%">
-      <h4>🏠 Emlak AI</h4>
-      <p>Yapay zeka destekli gayrimenkul analiz ve tahminleme platformu.</p>
+    <td width="50%" valign="top">
+      <h4>🌿 Carbon Twin — AI Digital Twin Platform</h4>
+      <p>
+        Operasyonel süreçlerin karbon ayak izini gerçek zamanlı modelleyen, emisyon senaryolarını simüle eden ve sürdürülebilirlik karar desteği sunan yapay zekâ destekli <b>Dijital İkiz (Digital Twin)</b> çözümü.
+      </p>
+      <p>
+        <code>Digital Twin</code> <code>Python</code> <code>AI / Analytics</code> <code>Full-Stack</code>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>🛒 StreamMarket</h4>
-      <p>Canlı yayın entegrasyonlu modern pazaryeri prototipi.</p>
+    <td width="50%" valign="top">
+      <h4>🏠 Emlak AI</h4>
+      <p>
+        Makine öğrenmesi ve veri analizi kullanarak gayrimenkul fiyat tahminlemesi, bölge değerlendirmesi ve yatırım analizi sunan yapay zekâ platformu.
+      </p>
+      <p>
+        <code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code>
+      </p>
     </td>
-    <td width="50%">
-      <h4>⚙️ AI Quality Control</h4>
-      <p>Üretim hatlarında görüntü işleme ile hata tespit sistemi.</p>
+    <td width="50%" valign="top">
+      <h4>💬 Real-Time Chat</h4>
+      <p>
+        Socket tabanlı, düşük gecikmeli anlık mesajlaşma, yazıyor bildirimi ve çevrimiçi durum takibi sunan mobil iletişim uygulaması.
+      </p>
+      <p>
+        <code>React Native</code> <code>Socket.io</code> <code>JavaScript</code>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 İstatistikler & Hareketli Veriler
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <!-- Profil Özet Kartı (Alternatif Servis) -->
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimmcx&theme=dracula" />
-  
-  <!-- Github Streak (Seri) Kartı (Alternatif Servis) -->
-  <img height="165em" src="https://streak-stats.demolab.com/?user=ibrahimmcx&theme=dracula" />
+  <img height="168em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimmcx&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img height="168em" src="https://streak-stats.demolab.com/?user=ibrahimmcx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/ibrahimmcx">
-    <img src="https://img.shields.io/github/followers/ibrahimmcx?label=Takip%20Et&style=for-the-badge&color=0e75b6&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-0e75b6?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:38bdf8&height=90&section=footer" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" width="100%"/>
-</p>
-

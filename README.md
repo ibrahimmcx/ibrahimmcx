@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Information Systems Engineering Student • AI & Scalable Product Developer</b>
+  <b> Information Systems Engineering Student • AI & Scalable Product Developer</b>
 </p>
 
 <p align="center">
